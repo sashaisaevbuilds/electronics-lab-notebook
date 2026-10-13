@@ -38,7 +38,11 @@ I changed the `delay` numbers and predicted what would happen before uploading. 
 
 ## In my own words
 
-<!-- 2 or 3 sentences: how it felt to see your first program run, and what you'd tell someone starting from zero. -->
+It was cool seeing my first program run into an actual LED that had a resistor and wires connected to it, as the Uno R3 comes with an LED that I had already blinked running similar code. Nonetheless, I can't wait to start building other things and learn about the breadboard in the following weeks. 
+
+https://github.com/user-attachments/assets/8b60da4d-e6e3-4dab-83e9-85eee0d00052
+
+
 
 ## Photo / video
 
