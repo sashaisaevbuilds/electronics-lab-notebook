@@ -1,6 +1,6 @@
 # 01 · Blink an LED
 
-**Date:** September 28, 2026
+**Date:** Oct 12, 2026
 **Stage:** 1 (my very first program)
 **Code:** [`Blink/Blink.ino`](Blink/Blink.ino)
 
